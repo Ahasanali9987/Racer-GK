@@ -41,4 +41,9 @@ Speed increases with every level.
 
 ---
 
+## Play
+
+Open the game here:  
+**[Play Cosmic Color] https://ahasanali9987.github.io/Racer-GK)**
+
 Made with ❤️
